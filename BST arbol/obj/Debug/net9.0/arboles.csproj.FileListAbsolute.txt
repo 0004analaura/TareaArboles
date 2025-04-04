@@ -1,0 +1,59 @@
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.deps.json
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.runtimeconfig.json
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.dll
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.pdb
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.AssemblyInfoInputs.cache
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.AssemblyInfo.cs
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.csproj.CoreCompileInputs.cache
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.dll
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/refint/arboles.dll
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.pdb
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.genruntimeconfig.cache
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/ref/arboles.dll
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\bin\Debug\net9.0\arboles.exe
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\bin\Debug\net9.0\arboles.deps.json
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\bin\Debug\net9.0\arboles.runtimeconfig.json
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\bin\Debug\net9.0\arboles.dll
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\bin\Debug\net9.0\arboles.pdb
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.AssemblyInfoInputs.cache
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.AssemblyInfo.cs
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.sourcelink.json
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.dll
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\refint\arboles.dll
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.pdb
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\arboles.genruntimeconfig.cache
+C:\Users\lucia\Desktop\PROGRA lll\Arboles C#\obj\Debug\net9.0\ref\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\bin\Debug\net9.0\arboles.exe
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\bin\Debug\net9.0\arboles.deps.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\bin\Debug\net9.0\arboles.runtimeconfig.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\bin\Debug\net9.0\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\bin\Debug\net9.0\arboles.pdb
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.AssemblyInfoInputs.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.AssemblyInfo.cs
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.csproj.CoreCompileInputs.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.sourcelink.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\refint\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.pdb
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\arboles.genruntimeconfig.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles\obj\Debug\net9.0\ref\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\bin\Debug\net9.0\arboles.exe
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\bin\Debug\net9.0\arboles.deps.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\bin\Debug\net9.0\arboles.runtimeconfig.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\bin\Debug\net9.0\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\bin\Debug\net9.0\arboles.pdb
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.AssemblyInfoInputs.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.AssemblyInfo.cs
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.csproj.CoreCompileInputs.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.sourcelink.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\refint\arboles.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.pdb
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\arboles.genruntimeconfig.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Tarea-Arboles - copia\obj\Debug\net9.0\ref\arboles.dll
